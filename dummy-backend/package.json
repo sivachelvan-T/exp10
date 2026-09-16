@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node dummy-backend.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
+
